@@ -31,6 +31,7 @@
 [![🏠 Project Page](https://img.shields.io/badge/Project-Page-blue)](https://lohhhha.github.io/LATO.2/)
 [![📄 Paper](https://img.shields.io/badge/Paper-arXiv-green)](https://arxiv.org/abs/2607.10623)
 [![🤗 Model](https://img.shields.io/badge/Model-Hugging%20Face-yellow)](https://huggingface.co/0x4c48/LATO.2)
+[![🤗 Demo](https://img.shields.io/badge/Demo-Hugging%20Face-red)](https://huggingface.co/spaces/0x4c48/lato2-mesh-generation)
 
 </div>
 
